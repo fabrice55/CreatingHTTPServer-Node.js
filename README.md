@@ -4,5 +4,5 @@ A simple exercise on how to create an HTTP server in node.js, and deploying a no
 
 ## Node App URL
 
-creating-http-server-node-js.vercel.app
+https://creating-http-server-node-js.vercel.app/
 
